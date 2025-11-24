@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide1/4248642216_1470122922_223132457.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide1/2369818124_1367182334_3350829401.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide1/2369818124_2015106682_3583332484.mp4'

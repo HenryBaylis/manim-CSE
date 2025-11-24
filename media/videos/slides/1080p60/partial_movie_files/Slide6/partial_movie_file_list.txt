@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide6/4248642216_1087336667_223132457.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide6/2369818124_3015964344_3546686417.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide6/2369818124_1751940299_679332938.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide6/2369818124_1839128356_3306888755.mp4'
-file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide6/2369818124_1839128356_3175632426.mp4'
