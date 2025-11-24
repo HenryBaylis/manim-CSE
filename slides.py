@@ -375,10 +375,16 @@ class SlideReferences(Scene):
             font_size=12,
         )
 
+        ref11 = Tex(
+            r"B-roll ---"
+            r"https://www.youtube.com/watch?v=2HevaNzsMys\&t=7s",
+            font_size=12
+        )
+
         # Stack them top->bottom with tight spacing
         items = VGroup(
-            ref1, ref2, ref3, ref4, ref5, ref6, ref7, ref8, ref9, ref10
-        ).arrange(DOWN, buff=0.35, aligned_edge=LEFT)
+            ref1, ref2, ref3, ref4, ref5, ref6, ref7, ref8, ref9, ref10, ref11
+        ).arrange(DOWN, buff=0.35, aligned_edge=RIGHT)
 
         items.scale(0.95)
         items.to_edge(RIGHT).shift(DOWN * 0.1)
@@ -388,6 +394,14 @@ class SlideReferences(Scene):
             self.play(FadeIn(r, shift=UP * 0.25), run_time=0.05)
             self.wait(0.05)
 
-        self.wait(2)
 
+        g = Text("Manim Github", font_size=30)
+        gi = Tex(r"https://github.com/HenryBaylis/manim-CSE", font_size=20)
+        self.play(FadeIn(g, run_time=0.3))
+        self.play(g.animate.to_edge(UP), run_time=0.3)
+
+        self.play(FadeIn(gi,run_time=0.3))
+
+        self.play(gi.animate.to_edge(UP).shift(DOWN*1), run_time=0.3)
+        self.wait(1)
 
