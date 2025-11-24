@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3529212410_901822522_223132457.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_2624335114_944173730.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_1860115538_1384482080.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_3201849554_3813089061.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_474395287_3830159203.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_3201849554_2959329617.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_3765863503_3427916666.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_3201849554_4068316121.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_2071281990_2934758957.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/test/1080p60/partial_movie_files/SegmentedFollow/3040924799_1839128356_2806037530.mp4'

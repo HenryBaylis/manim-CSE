@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/4248642216_3522157772_223132457.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_3566066853_820409142.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_3024508941_1345335989.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_2408024828_3372470687.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_1682607652_2313161920.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_2408024828_4243935152.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_1114263795_3048319097.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_2408024828_3081386890.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_3167082575_2884068968.mp4'
+file 'file:/home/heners/Documents/Coursework/cs5030p2/media/videos/slides/1080p60/partial_movie_files/Slide10/2369818124_2408024828_3007649438.mp4'

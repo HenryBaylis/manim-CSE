@@ -203,7 +203,6 @@ class MissileFollowCurve(Scene):
                 bunker.get_right() + UP * 0.2,
                 angle=PI/2,
             ).set_stroke(WHITE, width=1.5)
-
             door = Rectangle(
                 width=0.25, height=0.25,
                 fill_opacity=1, fill_color=BLACK,
@@ -255,12 +254,10 @@ class MissileFollowCurve(Scene):
 
         # -------- Staging of the scene --------
         self.play(Create(axes))
-        self.wait(1)
-
         self.play(FadeIn(radar))
         self.play(FadeIn(base))
         self.play(Create(dotted))
-        self.wait(1)
+        self.wait(0.2)
 
         self.add(beams_and_bands)
         self.play(FadeIn(missile))
@@ -273,7 +270,7 @@ class MissileFollowCurve(Scene):
 
         callout1 = make_callout(1/6, "Search action")
         self.play(FadeIn(callout1), run_time=0.4)
-        self.wait(1.0)
+        self.wait(10)
         self.play(FadeOut(callout1), run_time=0.4)
         self.wait(0.2)
 
@@ -282,7 +279,7 @@ class MissileFollowCurve(Scene):
 
         callout2 = make_callout(1/3, "Validation action")
         self.play(FadeIn(callout2), run_time=0.4)
-        self.wait(1.0)
+        self.wait(10)
         self.play(FadeOut(callout2), run_time=0.4)
         self.wait(0.2)
 
@@ -291,7 +288,7 @@ class MissileFollowCurve(Scene):
 
         callout3 = make_callout(2/3, "Tracking action (failure)")
         self.play(FadeIn(callout3), run_time=0.4)
-        self.wait(1.0)
+        self.wait(10)
         self.play(FadeOut(callout3), run_time=0.4)
         self.wait(0.2)
 
@@ -299,3 +296,6 @@ class MissileFollowCurve(Scene):
         self.play(t.animate.set_value(1.0), run_time=2.0, rate_func=linear)
         self.remove(missile)
         self.play(FadeOut(base))
+
+
+
